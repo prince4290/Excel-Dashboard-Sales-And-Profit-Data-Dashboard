@@ -26,12 +26,12 @@ This project highlights strong Excel skills, including **data cleaning, PivotTab
 ---
 
 ### 📷 Dashboard Preview
-![Dashboard Preview](https://github.com/honey255/Excel-DashBoard/blob/main/Sales%20And%20Profit%20Data%20Dashboard/Sales%20and%20Profit%20Data%20Dashboard.png)
+![Dashboard Preview]()
 
 ---
 
 ### 🚀 Getting Started
-1. Download the Excel file → [Click Here](https://github.com/honey255/Excel-DashBoard/blob/main/Sales%20And%20Profit%20Data%20Dashboard/Sales%20and%20Profit%20Data.xlsx)  
+1. Download the Excel file → [Click Here]()  
 2. Open the file in **Microsoft Excel**  
 3. Go to the **Dashboard** sheet to explore insights  
 4. Use slicers to filter by **date, product, or category**  
@@ -48,8 +48,8 @@ This project highlights strong Excel skills, including **data cleaning, PivotTab
 ---
 
 ### 📬 Contact
-**Created by:** Priyanshu Siwach  
+**Created by:** Prince Sharma 
 
-📧 Email: [siwachpriyanshu@gmail.com](mailto:siwachpriyanshu@gmail.com)  
+📧 Email: [princecu06@gmail.com](mailto:sharmaprince@gmail.com)  
 
-🔗 LinkedIn Profile : [Profile](https://www.linkedin.com/in/priyanshu-siwach-b7a807174/)  
+🔗 LinkedIn Profile : [Profile](https://www.linkedin.com/in/prince-sharma-472096339)  
