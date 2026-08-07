@@ -26,7 +26,7 @@ This project highlights strong Excel skills, including **data cleaning, PivotTab
 ---
 
 ### 📷 Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/prince4290/Excel-Dashboard-Sales-And-Profit-Data-Dashboard/blob/main/Sales%20and%20Profit%20Data%20Dashboard.png)
 
 ---
 
