@@ -31,7 +31,7 @@ This project highlights strong Excel skills, including **data cleaning, PivotTab
 ---
 
 ### 🚀 Getting Started
-1. Download the Excel file → [Click Here]()  
+1. Download the Excel file → [Click Here](https://github.com/prince4290/Excel-Dashboard-Sales-And-Profit-Data-Dashboard/blob/main/Sales%20and%20Profit%20Data.xlsx)  
 2. Open the file in **Microsoft Excel**  
 3. Go to the **Dashboard** sheet to explore insights  
 4. Use slicers to filter by **date, product, or category**  
